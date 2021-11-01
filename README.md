@@ -1,12 +1,11 @@
-# Ciparu minēšanas spēle(ar likmēm)
+# Spēle Tic-Tac-Toe
 
 ## Apraksts
-	Spēlētājam jāievada sava bilance un cik viņš grib likmēt, tad dators izlej ciparu no 1 līdz 10.Ja spēlētājs uzmin pareizi vīņs uzvar to cik vinš likmēja*2.
+	Ir 3x3 laukums kur spēlētājs var vadīt jebkurā laukumā x, bet dators vadīs o. Kas pirmais dabūs 3 simbolus līnijā uzvar.
 ## Galvenās funkcijas
-	- Ievadīt bilanci un jebkadu ciparu no 1 līdz 10
-	- dators izvada jebkadu ciparu no 1 līdz 10
-	- salīdzina vai ir vienādi
-  - ja ir vienādi spēlētājs uzvar, ja nav viņš zaudē
+	- Spēlētājs ievada simbolus
+	- dators ievada simbolus
+	- Pārbauda vai ir 3 simboli līnijā
 ## Izmantotās tehnoloģijas
 	- C++
 ## Izmantotie avoti
